@@ -28,7 +28,7 @@
 
 # 📖 TDD Project <a name="about-project"></a>
 
-**TDD Project** is a Ruby project that teaches you  how to use a module inside a class
+**TDD Project** is a Ruby project that teaches you how to write unit tests using Rspec.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,9 +40,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- [ ] **Person class**
-- [ ] **Student class**
-- [ ] **Teacher class**
+- [ ] **Solve class**
+- [ ] **FizzBuzz method**
+- [ ] **Reverse methode**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
